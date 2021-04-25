@@ -1,0 +1,39 @@
+2021-04-25 17:25:09.535  INFO 13036 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2021-04-25 17:25:09.822  INFO 13036 --- [RMI TCP Connection(2)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-25 17:25:13.526  INFO 16108 --- [main] com.elk.ElkStackExampleApplication       : Starting ElkStackExampleApplication on LAPTOP-5GMFN02H with PID 16108 (C:\Users\rajpu\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\elk-stack-example\target\classes started by rajpu in C:\Users\rajpu\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\elk-stack-example)
+2021-04-25 17:25:13.528  INFO 16108 --- [main] com.elk.ElkStackExampleApplication       : No active profile set, falling back to default profiles: default
+2021-04-25 17:25:14.196  INFO 16108 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8083 (http)
+2021-04-25 17:25:14.204  INFO 16108 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-04-25 17:25:14.204  INFO 16108 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-04-25 17:25:14.258  INFO 16108 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-04-25 17:25:14.258  INFO 16108 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 698 ms
+2021-04-25 17:25:14.384  INFO 16108 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-25 17:25:14.508  INFO 16108 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8083 (http) with context path ''
+2021-04-25 17:25:14.515  INFO 16108 --- [main] com.elk.ElkStackExampleApplication       : Started ElkStackExampleApplication in 1.261 seconds (JVM running for 1.844)
+2021-04-25 17:28:35.885  INFO 16108 --- [http-nio-8083-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-25 17:28:35.886  INFO 16108 --- [http-nio-8083-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-04-25 17:28:35.892  INFO 16108 --- [http-nio-8083-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2021-04-25 17:28:35.927  INFO 16108 --- [http-nio-8083-exec-2] com.elk.controllers.UserController       : user found : User(id=1, name=Punit)
+2021-04-25 23:29:21.917  INFO 16108 --- [http-nio-8083-exec-4] com.elk.controllers.UserController       : user found : User(id=1, name=Punit)
+2021-04-25 23:32:31.859  INFO 16108 --- [http-nio-8083-exec-7] com.elk.controllers.UserController       : user found : User(id=2, name=Mayank)
+2021-04-25 23:33:30.158  INFO 16108 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2021-04-25 23:33:30.841  INFO 16108 --- [RMI TCP Connection(2)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-25 23:33:35.578  INFO 21744 --- [main] com.elk.ElkStackExampleApplication       : Starting ElkStackExampleApplication on LAPTOP-5GMFN02H with PID 21744 (C:\Users\rajpu\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\elk-stack-example\target\classes started by rajpu in C:\Users\rajpu\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\elk-stack-example)
+2021-04-25 23:33:35.585  INFO 21744 --- [main] com.elk.ElkStackExampleApplication       : No active profile set, falling back to default profiles: default
+2021-04-25 23:33:37.363  INFO 21744 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8083 (http)
+2021-04-25 23:33:37.378  INFO 21744 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-04-25 23:33:37.380  INFO 21744 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-04-25 23:33:37.544  INFO 21744 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-04-25 23:33:37.545  INFO 21744 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1813 ms
+2021-04-25 23:33:37.812  INFO 21744 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-25 23:33:38.089  INFO 21744 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8083 (http) with context path ''
+2021-04-25 23:33:38.106  INFO 21744 --- [main] com.elk.ElkStackExampleApplication       : Started ElkStackExampleApplication in 3.581 seconds (JVM running for 5.823)
+2021-04-25 23:33:57.247  INFO 21744 --- [http-nio-8083-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-25 23:33:57.248  INFO 21744 --- [http-nio-8083-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-04-25 23:33:57.261  INFO 21744 --- [http-nio-8083-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 11 ms
+2021-04-25 23:33:57.335  INFO 21744 --- [http-nio-8083-exec-1] com.elk.controllers.UserController       : user found : User(id=2, name=Mayank)
+2021-04-25 23:34:18.109  INFO 21744 --- [http-nio-8083-exec-4] com.elk.controllers.UserController       : user found : User(id=3, name=Cp)
+2021-04-25 23:34:38.355  INFO 21744 --- [http-nio-8083-exec-7] com.elk.controllers.UserController       : user found : User(id=3, name=Cp)
+2021-04-25 23:34:55.476  INFO 21744 --- [http-nio-8083-exec-8] com.elk.controllers.UserController       : user found : User(id=1, name=Punit)
+2021-04-25 23:35:18.290  INFO 21744 --- [http-nio-8083-exec-9] com.elk.controllers.UserController       : user found : User(id=1, name=Punit)
+2021-04-25 23:36:08.429 ERROR 21744 --- [http-nio-8083-exec-1] com.elk.controllers.UserController       : User not found with id : 0
